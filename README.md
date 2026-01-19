@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Toka Gamal Gabr 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=650&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights" />
 </p>
 
 ---
