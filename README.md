@@ -9,7 +9,7 @@ Continuously improving my skills in advanced SQL, Python (pandas), BI best pract
 
 ## Skills Overview
 
-### Data & Business (Text Only)
+### Data & Business 
 - Requirements Gathering & Documentation  
 - Process Analysis & Optimization  
 - Workflow Mapping & Decision Support  
@@ -19,7 +19,7 @@ Continuously improving my skills in advanced SQL, Python (pandas), BI best pract
 - Interactive Dashboards & Reports  
 - Business Insights & Stakeholder Reporting  
 
-### Programming & Tools (With Icons)
+### Programming & Tools 
 <p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
@@ -50,7 +50,7 @@ Continuously improving my skills in advanced SQL, Python (pandas), BI best pract
   </a>
 </p>
 
-### IT & Networking Foundations (With Icons)
+### IT & Networking Foundations 
 <p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/Networking-6DA544?style=for-the-badge&logo=Cisco&logoColor=white" />
@@ -60,7 +60,7 @@ Continuously improving my skills in advanced SQL, Python (pandas), BI best pract
   </a>
 </p>
 
-### AI & Emerging Tech Awareness (Text Only)
+### AI & Emerging Tech Awareness 
 - AI tools for productivity & analysis (ChatGPT, Copilot)  
 - Understanding AI-assisted data analysis and workflow automation  
 
