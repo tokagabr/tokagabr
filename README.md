@@ -1,78 +1,51 @@
-# Hi, I'm Toka Gamal Gabr
+# Hi, I'm Toka Gamal Gabr 👋
+
+**Business Analyst** | Process Analysis & Data-Driven Requirements  
+📍 Cairo, Egypt · 📧 tokagbr25@gmail.com
+
+---
 
 ## About Me
-BIS Graduate (Management Information Systems)  
-Passionate about Data Analytics, Business Intelligence, and Technology-Driven Business Solutions  
-Skilled in transforming raw data into actionable insights and supporting digital systems using SQL, Power BI, Excel, Python, and workflow automation tools  
-Built analytics dashboards and KPI-focused projects based on real business scenarios, improving reporting efficiency and decision-making  
-Continuously improving my skills in advanced SQL, Python (pandas), BI best practices, IT foundations, and AI-assisted productivity tools  
 
-## Skills Overview
+MIS graduate with hands-on experience in business process analysis, requirements documentation, and data-driven decision support.
 
-### Data & Business 
-- Requirements Gathering & Documentation  
-- Process Analysis & Optimization  
-- Workflow Mapping & Decision Support  
-- Stakeholder Communication  
-- KPI Development & Monitoring  
-- Data Cleaning & Validation  
-- Interactive Dashboards & Reports  
-- Business Insights & Stakeholder Reporting  
+- 🏆 Top 3 finish in Maven Analytics Hackathon — analysed **1.7M+ records** across 6 tables
+- 🏦 Reduced operational inefficiencies by **up to 25%** across two banking internships
+- 📊 Built Power BI dashboards for real stakeholders at a tech startup
+- 🎓 Currently completing a nationally competitive **9-month MCIT Business Analysis scholarship**
 
-### Programming & Tools 
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=Java&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" />
-  </a>
-</p>
+---
 
-### IT & Networking Foundations 
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Networking-6DA544?style=for-the-badge&logo=Cisco&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-  </a>
-</p>
+## Skills
 
-### AI & Emerging Tech Awareness 
-- AI tools for productivity & analysis (ChatGPT, Copilot)  
-- Understanding AI-assisted data analysis and workflow automation  
+**Business Analysis**  
+`Requirements Elicitation` `BRD Writing` `BPMN 2.0` `UML` `Use Case Modeling` `Gap Analysis` `Agile/Scrum` `ERD`
 
-## Connect with Me
-<p align="left">
-  <a href="mailto:tokagbr25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tokagabr">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tokagabr.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+**Data & BI**  
+`SQL (Advanced)` `Power BI` `Excel (PivotTables · Power Query · VBA)` `Python (Pandas)`
+
+**Development**  
+`React` `HTML/CSS` `PHP` `MySQL`
+
+**IT Fundamentals**  
+`Networking (CCNA coursework)` `Windows Server`
+
+---
+
+## Featured Projects
+
+| Project | Tools | Highlight |
+|---------|-------|-----------|
+| [MavenFuzzyFactory Hackathon](https://github.com/tokagabr/MavenFuzzyFactoryBusinessAnalytics) | MySQL · Excel · Power BI | Top 3 · 1.7M+ records · $26,700/month opportunity identified |
+| [Uber Eats Business Analytics](https://github.com/tokagabr/uber-eats-analysis) | SQL · Power BI | 3M+ records · 30% reporting time reduction |
+| [Student Performance Analysis](https://github.com/tokagabr/Student-Performance-Analysis) | Python · Pandas · NumPy | Data cleaning · 0.78 attendance-score correlation |
+| [Telecom Churn Analysis](https://github.com/tokagabr/Telecom-Analysis) | Excel · Power Query | 7,000+ records · #1 churn driver identified |
+| [Eco Cycle System](https://github.com/tokagabr/Eco-Cycle-System-Analysis) | React · PHP · MySQL · UML | Full system analysis · A+ grade · Excellence Award |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tokagabr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-tokagabr.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokagbr25@gmail.com)
